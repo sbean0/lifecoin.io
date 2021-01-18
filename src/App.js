@@ -16,6 +16,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React for great coffee
+          <p>
+          <b>Mission: aim for great usefulness</b>
+          </p>
         </a>
       </header>
     </div>
